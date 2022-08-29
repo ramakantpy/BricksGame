@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d467e11bae3c819c59e90024ab0f147a/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2ce9ada1a4f67244c93a999b3e84b24b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7fd4584e9a8d2c8b549d6200fb41477e/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/768c0b82e7dc616c5a47d1e9de34f1c3/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/3c8d5038b45d5c7e06719e3f5cfe86bc/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/43c683eb5b9310b1ebaf5a5f2c96253f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7e3c8b16b5c0bdb2162b969a3b25b21e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1cb895a77f3f21d028c333be1de62bf8/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/07a022b84336d680233208813520dab4/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/8e4789385d1dbba8cd6afa20d54cf6bd/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e8753969253d2876d2822c1816fa0222/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7b30545c7dde1e95f57bd7de9616f2c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e14ac85f1126e7980db99141db0fde12/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1128e9c06345c54c84b461842366e7e2/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/02ecd48b576a25fad542457244dca077/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/9132cd4c3ec82969d5da43cdeadd42df/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/29ad4765520015fe3dfdca66a979c1a8/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/52070002d578ee9daa660a1b612de420/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7f2c7063ba88424ded525892326e30e/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/6079f7a765a62598ba06a2f5fdead08d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d4c9e45086bb311ab5f003976f396c14/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7241b8f1ec37af109d4d2a2a19e27f98/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/947452df7c2c68665319fec12718535f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/be78f20c96fdd8562774ce9c33a112b9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/f1c1f6112ea6a1f399972dce89bf2eda/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/60cfd4d0ce7cf2e64e675fbd60469bb6/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/fd1b545579ee6fe17065c14f79977cf0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/9214917a2328e873e25f2a8df01ef814/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/4db19e27d8dc3c18a0e11d542a3d656e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d8a2fa2fab3869b7293d51c10b767260/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:4:5-63
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:6:22-63
+application
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:8:5-39:2
+MERGED from [com.google.android.material:material:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d467e11bae3c819c59e90024ab0f147a/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d467e11bae3c819c59e90024ab0f147a/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7f2c7063ba88424ded525892326e30e/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7f2c7063ba88424ded525892326e30e/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:11:9-57
+	android:icon
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:9:9-40
+activity#de.tobiasbielefeld.brickgames.ui.Main
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:exported
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:16:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:21:27-74
+activity#de.tobiasbielefeld.brickgames.ui.Settings
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:label
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:28:13-45
+	android:exported
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:27:13-40
+activity#de.tobiasbielefeld.brickgames.ui.about.AboutActivity
+ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:35:13-42
+	android:exported
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:33:13-37
+	android:configChanges
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:32:13-51
+uses-sdk
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d467e11bae3c819c59e90024ab0f147a/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d467e11bae3c819c59e90024ab0f147a/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2ce9ada1a4f67244c93a999b3e84b24b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2ce9ada1a4f67244c93a999b3e84b24b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7fd4584e9a8d2c8b549d6200fb41477e/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7fd4584e9a8d2c8b549d6200fb41477e/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/768c0b82e7dc616c5a47d1e9de34f1c3/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/768c0b82e7dc616c5a47d1e9de34f1c3/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/3c8d5038b45d5c7e06719e3f5cfe86bc/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/3c8d5038b45d5c7e06719e3f5cfe86bc/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/43c683eb5b9310b1ebaf5a5f2c96253f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/43c683eb5b9310b1ebaf5a5f2c96253f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7e3c8b16b5c0bdb2162b969a3b25b21e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7e3c8b16b5c0bdb2162b969a3b25b21e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1cb895a77f3f21d028c333be1de62bf8/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1cb895a77f3f21d028c333be1de62bf8/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/07a022b84336d680233208813520dab4/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/07a022b84336d680233208813520dab4/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/8e4789385d1dbba8cd6afa20d54cf6bd/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/8e4789385d1dbba8cd6afa20d54cf6bd/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e8753969253d2876d2822c1816fa0222/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e8753969253d2876d2822c1816fa0222/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7b30545c7dde1e95f57bd7de9616f2c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7b30545c7dde1e95f57bd7de9616f2c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e14ac85f1126e7980db99141db0fde12/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e14ac85f1126e7980db99141db0fde12/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1128e9c06345c54c84b461842366e7e2/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/1128e9c06345c54c84b461842366e7e2/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/02ecd48b576a25fad542457244dca077/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/02ecd48b576a25fad542457244dca077/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/9132cd4c3ec82969d5da43cdeadd42df/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/9132cd4c3ec82969d5da43cdeadd42df/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/29ad4765520015fe3dfdca66a979c1a8/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/29ad4765520015fe3dfdca66a979c1a8/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/52070002d578ee9daa660a1b612de420/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/52070002d578ee9daa660a1b612de420/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7f2c7063ba88424ded525892326e30e/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/e7f2c7063ba88424ded525892326e30e/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/6079f7a765a62598ba06a2f5fdead08d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/6079f7a765a62598ba06a2f5fdead08d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d4c9e45086bb311ab5f003976f396c14/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d4c9e45086bb311ab5f003976f396c14/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7241b8f1ec37af109d4d2a2a19e27f98/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/7241b8f1ec37af109d4d2a2a19e27f98/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/947452df7c2c68665319fec12718535f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/947452df7c2c68665319fec12718535f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/be78f20c96fdd8562774ce9c33a112b9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/be78f20c96fdd8562774ce9c33a112b9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/f1c1f6112ea6a1f399972dce89bf2eda/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/f1c1f6112ea6a1f399972dce89bf2eda/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/60cfd4d0ce7cf2e64e675fbd60469bb6/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/60cfd4d0ce7cf2e64e675fbd60469bb6/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/fd1b545579ee6fe17065c14f79977cf0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/fd1b545579ee6fe17065c14f79977cf0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/9214917a2328e873e25f2a8df01ef814/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/9214917a2328e873e25f2a8df01ef814/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/4db19e27d8dc3c18a0e11d542a3d656e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/4db19e27d8dc3c18a0e11d542a3d656e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d8a2fa2fab3869b7293d51c10b767260/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/d8a2fa2fab3869b7293d51c10b767260/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="pref_language_titles">
+        <item>Domyślny</item>
+        <item>Angielski</item>
+        <item>Esperanto</item>
+        <item>Francuski</item>
+        <item>Niemiecki</item>
+        <item>Polski</item>
+        <item>Portugalski</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>pl</item>
+        <item>pt</item>
+    </string-array>
+    <string-array name="pref_orientation_titles">
+        <item>Ustawienia systemu</item>
+        <item>Pionowa</item>
+        <item>Pozioma</item>
+        <item>Pozioma do góry nogami</item>
+    </string-array>
+    <string name="About">O grze</string>
+    <string name="About_Text1">twórca: Tobias Bielefeld</string>
+    <string name="About_Text2">dziękuję za granie w moją grę :)</string>
+    <string name="About_Text3">Dźwięki stworzono za pomocą:</string>
+    <string name="Settings">Ustawienia</string>
+    <string name="Settings_backgroundcolour">Kolor tła</string>
+    <string name="Settings_button">Kolor przycisków</string>
+    <string name="Settings_sound">Włącz dźwięk w grze</string>
+    <string name="Settings_textures">Tekstury</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="about_build_date">Skompilowano</string>
+    <string name="about_programm_code_text">Kod źródłowy dostępny na:</string>
+    <string name="about_tab_1">Informacje</string>
+    <string name="about_tab_2">Licencja</string>
+    <string name="about_tab_3">Zmiany</string>
+    <string name="about_translations">Tłumaczenia</string>
+    <string name="about_translations_esperanto_polish">Esperanto i Polski: użytkownik GitHuba verdulo</string>
+    <string name="about_translations_french">Francuski: użytkownik GitHuba xinxinxinxinxin</string>
+    <string name="about_translations_portuguese">Portugalski: użytkownik GitHuba jeisoncp</string>
+    <string name="and">i</string>
+    <string name="app_version">Wersja</string>
+    <string name="cancel">Anuluj</string>
+    <string name="changed_to">zmieniono na</string>
+    <string name="colour">kolor</string>
+    <string name="colour_blue">Niebieski</string>
+    <string name="colour_gray">Szary</string>
+    <string name="colour_green">Zielony</string>
+    <string name="colour_red">Czerwony</string>
+    <string name="colour_yellow">Żółty</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="credits_to_roger_hicks_and_matt_white">autorstwa Rogera Hicksa i Matta White</string>
+    <string name="is_now">wynosi teraz</string>
+    <string name="keyboardDialogAction">Akcja</string>
+    <string name="keyboardDialogDown">Dół</string>
+    <string name="keyboardDialogLeft">Lewo</string>
+    <string name="keyboardDialogRight">Prawo</string>
+    <string name="keyboardDialogUp">Góra</string>
+    <string name="keyboardDialog_title1">Przyciski akcji</string>
+    <string name="keyboardDialog_title2">Przyciski menu</string>
+    <string name="keyboardDialog_warning">Nie możesz sterować za pomocą klawiszy specjalnych takich jak enter, spacja, czy esc, ponieważ są one wykorzystywane do nawigacji po UI Androida.</string>
+    <string name="number">Wartość</string>
+    <string name="off">Wył</string>
+    <string name="press_again">Naciśnij ponownie, aby wyjść</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
+    <string name="settingsBackPress">Potwierdź zamknięcie gry</string>
+    <string name="settingsBackPressDescription">Naciśnij ponownie przycisk cofania, aby wyjść z gry</string>
+    <string name="settingsCustomize">Dostosuj</string>
+    <string name="settingsEnabledKeyboardInputText">Ukryj przyciski programowe i steruj fizycznymi klawiszami</string>
+    <string name="settingsEnabledKeyboardInputTitle">Sterowanie klawiszami</string>
+    <string name="settingsInput">Sterowanie</string>
+    <string name="settingsKeyboardInputMappingText">Wybór innych klawiszy sterowania</string>
+    <string name="settingsKeyboardInputMappingTitle">Przypisanie klawiszy</string>
+    <string name="settingsOtherSettings">Inne ustawienia</string>
+    <string name="settingsStatusBar">Ukryj pasek powiadomień</string>
+    <string name="settingsVibrationStrength">Siła wibracji</string>
+    <string name="settings_change_language">Zmień język</string>
+    <string name="settings_orientation">Orientacja ekranu</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="translations">Tłumaczenia</string>
+    <string name="ui_close">Zamknij</string>
+    <string name="ui_highscore">Rekord:</string>
+    <string name="ui_level">Poziom:</string>
+    <string name="ui_pause">Pauza</string>
+    <string name="ui_reset">Reset</string>
+    <string name="ui_score">Punkty:</string>
+    <string name="ui_speed">Szybkość:</string>
+    <string name="under_apache_licence_2_0"><a href="http://www.apache.org/licenses/LICENSE-2.0.html"> na licencji Apache Licence 2.0 </a></string>
+    <string name="under_cc_by_3_0_license"><a href="https://creativecommons.org/licenses/by/3.0/us/deed.pl"> na licencji CC-BY-3.0 </a></string>
+</resources>

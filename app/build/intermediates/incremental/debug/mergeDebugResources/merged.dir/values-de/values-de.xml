@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="pref_language_titles">
+        <item>Standard Sprache</item>
+        <item>Deutsch</item>
+        <item>Englisch</item>
+        <item>Esperanto</item>
+        <item>Französisch</item>
+        <item>Polnisch</item>
+        <item>Portugiesisch</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>de</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fr</item>
+        <item>pl</item>
+        <item>pt</item>
+    </string-array>
+    <string-array name="pref_orientation_titles">
+        <item>System Einstellungen folgen</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Landscape umgekehrt</item>
+    </string-array>
+    <string name="About">Über das Spiel</string>
+    <string name="About_Text1">entwickelt von Tobias Bielefeld</string>
+    <string name="About_Text2">Danke fürs Spielen :)</string>
+    <string name="About_Text3">Töne erstellt mithilfe:</string>
+    <string name="Settings">Einstellungen</string>
+    <string name="Settings_backgroundcolour">Hintergrundfarbe</string>
+    <string name="Settings_button">Tastenfarbe</string>
+    <string name="Settings_sound">Ton im Spiel erlauben</string>
+    <string name="Settings_textures">Texturen</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Leertaste +"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about_build_date">Kompiliert am</string>
+    <string name="about_programm_code_text">Quellcode erhältlich auf:</string>
+    <string name="about_tab_1">Informationen</string>
+    <string name="about_tab_2">Lizenz</string>
+    <string name="about_tab_3">Änderungen</string>
+    <string name="about_translations">Übersetzungen</string>
+    <string name="about_translations_esperanto_polish">Esperanto und Polnisch: Von GitHub Nutzer verdulo</string>
+    <string name="about_translations_french">Französisch: Von GitHub Nutzer xinxinxinxinxin</string>
+    <string name="about_translations_portuguese">Portugiesisch: Von GitHub Nutzer jeisoncp</string>
+    <string name="and">und</string>
+    <string name="app_version">Version</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="changed_to">geändert zu</string>
+    <string name="colour">Farbe</string>
+    <string name="colour_blue">Blau</string>
+    <string name="colour_gray">Grau</string>
+    <string name="colour_green">Grün</string>
+    <string name="colour_red">Rot</string>
+    <string name="colour_yellow">Gelb</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="credits_to_roger_hicks_and_matt_white">credits to: Roger Hicks and Matt White</string>
+    <string name="is_now">ist nun</string>
+    <string name="keyboardDialogAction">Aktion</string>
+    <string name="keyboardDialogDown">Unten</string>
+    <string name="keyboardDialogLeft">Links</string>
+    <string name="keyboardDialogRight">Rechts</string>
+    <string name="keyboardDialogUp">Oben</string>
+    <string name="keyboardDialog_title1">Aktionstasten</string>
+    <string name="keyboardDialog_title2">Menütasten</string>
+    <string name="keyboardDialog_warning">Zurzeit ist es nicht möglich spezielle Tasten wie Enter, Leertaste oder Escape für die Eingabe auszuwählen,
+        da diese Tasten für die Navigation in der Android UI verwendet werden.</string>
+    <string name="number">Nummer</string>
+    <string name="off">Aus</string>
+    <string name="press_again">Zum Beenden erneut drücken</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="settingsBackPress">Beenden des Spiels bestätigen</string>
+    <string name="settingsBackPressDescription">Zum Beenden Zurück Taste zwei mal drücken</string>
+    <string name="settingsCustomize">Individualisieren</string>
+    <string name="settingsEnabledKeyboardInputText">Verstecke die Software Knöpfe und erlaube Eingabe über eine physische Tastatur</string>
+    <string name="settingsEnabledKeyboardInputTitle">Erlaube Tastatur Eingabe</string>
+    <string name="settingsInput">Eingabe</string>
+    <string name="settingsKeyboardInputMappingText">Wähle andere Tasten für die Eingabe aus</string>
+    <string name="settingsKeyboardInputMappingTitle">Tastenbelegung</string>
+    <string name="settingsOtherSettings">Andere Einstellungen</string>
+    <string name="settingsStatusBar">Benachrichtigungsleiste verbergen</string>
+    <string name="settingsVibrationStrength">Vibrationsstärke</string>
+    <string name="settings_change_language">Sprache ändern</string>
+    <string name="settings_orientation">Bildschirmausrichtung</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="translations">Übersetzungen:</string>
+    <string name="ui_close">Close</string>
+    <string name="ui_highscore">HighScore:</string>
+    <string name="ui_level">Level:</string>
+    <string name="ui_pause">Pause</string>
+    <string name="ui_reset">Reset</string>
+    <string name="ui_score">Score:</string>
+    <string name="ui_speed">Speed:</string>
+    <string name="under_apache_licence_2_0"><a href="http://www.apache.org/licenses/LICENSE-2.0.html"> under Apache Licence 2.0 </a></string>
+    <string name="under_cc_by_3_0_license"><a href="https://creativecommons.org/licenses/by/3.0/us/"> under CC-BY-3.0 license </a></string>
+</resources>
