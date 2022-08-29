@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="de.tobiasbielefeld.brickgames"
+3    package="com.rkrocks.bricksbeaker"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -16,12 +16,12 @@
 12
 13    <application
 13-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:8:5-39:2
-14        android:name="de.tobiasbielefeld.brickgames.MainApplication"
+14        android:name="com.rkrocks.bricksbeaker.MainApplication"
 14-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:9:9-40
 15        android:allowBackup="true"
 15-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:10:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.0.0] /Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+16-->[androidx.core:core:1.0.0] /Users/macmini-m12022/ice-angel-id-android-app/gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
 17        android:debuggable="true"
 18        android:fullBackupContent="@xml/my_backup_rules"
 18-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:11:9-57
@@ -36,7 +36,7 @@
 23-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:15:9-44
 24        <activity
 24-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:16:9-23:20
-25            android:name="de.tobiasbielefeld.brickgames.ui.Main"
+25            android:name="com.rkrocks.bricksbeaker.ui.Main"
 25-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:16:19-42
 26            android:exported="true" >
 26-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:17:13-36
@@ -53,7 +53,7 @@
 32        </activity>
 33        <activity
 33-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:24:9-29:20
-34            android:name="de.tobiasbielefeld.brickgames.ui.Settings"
+34            android:name="com.rkrocks.bricksbeaker.ui.Settings"
 34-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:27:13-40
 35            android:exported="false"
 35-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:26:13-37
@@ -64,7 +64,7 @@
 38        </activity>
 39        <activity
 39-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:30:9-36:20
-40            android:name="de.tobiasbielefeld.brickgames.ui.about.AboutActivity"
+40            android:name="com.rkrocks.bricksbeaker.ui.about.AboutActivity"
 40-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:32:13-51
 41            android:configChanges="keyboardHidden|orientation|screenSize"
 41-->/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/AndroidManifest.xml:34:13-74

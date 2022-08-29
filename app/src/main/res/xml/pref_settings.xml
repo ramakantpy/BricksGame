@@ -4,28 +4,28 @@
     <PreferenceCategory
         android:title="@string/settingsCustomize">
 
-        <de.tobiasbielefeld.brickgames.dialogs.TexturesDialog
+        <com.rkrocks.bricksbeaker.dialogs.TexturesDialog
             android:key="@string/prefKeyTextures"
             android:title="@string/Settings_textures"
             android:negativeButtonText="@string/cancel"
             android:positiveButtonText="@null"
             android:summary=""/>
 
-        <de.tobiasbielefeld.brickgames.dialogs.BackgroundDialog
+        <com.rkrocks.bricksbeaker.dialogs.BackgroundDialog
             android:key="@string/prefKeyBackground"
             android:title="@string/Settings_backgroundcolour"
             android:negativeButtonText="@string/cancel"
             android:positiveButtonText="@null"
             android:summary=""/>
 
-        <de.tobiasbielefeld.brickgames.dialogs.ButtonDialog
+        <com.rkrocks.bricksbeaker.dialogs.ButtonDialog
             android:key="@string/prefKeyButtons"
             android:title="@string/Settings_button"
             android:negativeButtonText="@string/cancel"
             android:positiveButtonText="@null"
         android:summary=""/>
 
-        <de.tobiasbielefeld.brickgames.dialogs.VibrationStrengthDialog
+        <com.rkrocks.bricksbeaker.dialogs.VibrationStrengthDialog
             android:key="@string/prefKeyVibrationStrength"
             android:title="@string/settingsVibrationStrength"
             android:negativeButtonText="@string/cancel"
@@ -43,7 +43,7 @@
             android:title="@string/settingsEnabledKeyboardInputTitle"
             android:summary="@string/settingsEnabledKeyboardInputText"/>
 
-        <de.tobiasbielefeld.brickgames.dialogs.KeyboardDialog
+        <com.rkrocks.bricksbeaker.dialogs.KeyboardDialog
             android:key="@string/prefKeyKeyboardInputMapping"
             android:title="@string/settingsKeyboardInputMappingTitle"
             android:dependency="@string/prefKeyEnableKeyboardInput"

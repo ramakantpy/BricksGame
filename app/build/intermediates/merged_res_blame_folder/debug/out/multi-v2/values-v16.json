@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "de.tobiasbielefeld.brickgames.app-mergeDebugResources-11:/values-v16/values-v16.xml",
+            "outputFile": "com.rkrocks.bricksbeaker.app-mergeDebugResources-3:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/macmini-m12022/.gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/macmini-m12022/ice-angel-id-android-app/gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/macmini-m12022/ice-angel-id-android-app/gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/macmini-m12022/.gradle/caches/transforms-3/2285b91efe25780c6e7d7713eefa7047/transformed/core-1.0.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

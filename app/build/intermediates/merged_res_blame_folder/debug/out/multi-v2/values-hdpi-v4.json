@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "de.tobiasbielefeld.brickgames.app-mergeDebugResources-11:/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "com.rkrocks.bricksbeaker.app-mergeDebugResources-3:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/macmini-m12022/.gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/Users/macmini-m12022/ice-angel-id-android-app/gradle/caches/transforms-3/1acfe28da0493ccf6d1a66b5e60d8a25/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

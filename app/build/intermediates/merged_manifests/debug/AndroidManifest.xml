@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="de.tobiasbielefeld.brickgames"
+    package="com.rkrocks.bricksbeaker"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -11,7 +11,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
-        android:name="de.tobiasbielefeld.brickgames.MainApplication"
+        android:name="com.rkrocks.bricksbeaker.MainApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -22,7 +22,7 @@
         android:testOnly="true"
         android:theme="@style/AppThemeMain" >
         <activity
-            android:name="de.tobiasbielefeld.brickgames.ui.Main"
+            android:name="com.rkrocks.bricksbeaker.ui.Main"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,13 +31,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="de.tobiasbielefeld.brickgames.ui.Settings"
+            android:name="com.rkrocks.bricksbeaker.ui.Settings"
             android:exported="false"
             android:label="@string/Settings"
             android:theme="@style/AppThemeOther" >
         </activity>
         <activity
-            android:name="de.tobiasbielefeld.brickgames.ui.about.AboutActivity"
+            android:name="com.rkrocks.bricksbeaker.ui.about.AboutActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="false"
             android:label="@string/About"

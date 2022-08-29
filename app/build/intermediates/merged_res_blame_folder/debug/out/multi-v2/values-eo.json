@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "de.tobiasbielefeld.brickgames.app-mergeDebugResources-11:/values-eo/values-eo.xml",
+            "outputFile": "com.rkrocks.bricksbeaker.app-mergeDebugResources-3:/values-eo/values-eo.xml",
             "map": [
                 {
                     "source": "/Users/macmini-m12022/AndroidStudioProjects/Simple-Brick-Games/app/src/main/res/values-eo/strings.xml",

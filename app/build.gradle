@@ -10,7 +10,7 @@ android {
     buildToolsVersion '30.0.3'
     defaultConfig {
         buildConfigField "long", "TIMESTAMP", System.currentTimeMillis() + "L"
-        applicationId "de.tobiasbielefeld.brickgames"
+        applicationId "com.rkrocks.bricksbeaker"
         minSdkVersion 22
         targetSdkVersion 33
         versionCode 1

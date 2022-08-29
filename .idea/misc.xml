@@ -3,10 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout-land/main.xml" value="0.1353615520282187" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activty_about.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_about_tab1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_about_tab2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_about_tab3.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/dialog_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_buttons.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_keyboard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_textures.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_vibration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.15989583333333332" />
         <entry key="app/src/main/res/xml/pref_settings.xml" value="0.1" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

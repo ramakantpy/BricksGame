@@ -1,230 +1,230 @@
 [
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_1_green.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_1_green.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_3_yellow.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_3_yellow.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_boing.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/boing.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_5_green.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_5_green.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_activity_settings.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/activity_settings.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_5_red.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_5_red.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_4_red.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_4_red.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_4_blue.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_4_blue.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_look_3.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/look_3.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_look_2.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/look_2.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_5_blue.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_5_blue.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_main.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/main.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_dialog_vibration.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/dialog_vibration.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_1_gray.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_1_gray.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_2_gray.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_2_gray.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_beep.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/beep.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/xml_pref_settings.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/xml/pref_settings.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_crunch.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/crunch.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_explosion.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/explosion.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_1_blue.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_1_blue.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_dialog_textures.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/dialog_textures.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_dialog_keyboard.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/dialog_keyboard.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_5_red.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_5_red.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_4_yellow.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_4_yellow.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_5_green.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_5_green.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_boing.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/boing.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_2_green.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_2_green.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_2_green.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_2_green.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_3_blue.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_3_blue.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_next.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/next.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/menu_menu.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/menu/menu.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_boop.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/boop.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_4_red.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_4_red.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_2_yellow.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_2_yellow.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_2_blue.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_2_blue.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_2_blue.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_2_blue.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_look_1.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/look_1.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_4_gray.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_4_gray.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_dialog_background.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/dialog_background.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_5_yellow.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_5_yellow.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_3_green.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_3_green.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_5_gray.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_5_gray.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_content_about_tab3.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/content_about_tab3.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_1_red.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_1_red.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_main.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/main.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_3_blue.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_3_blue.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_content_about_tab3.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/content_about_tab3.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_dialog_keyboard.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/dialog_keyboard.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_shadow.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/shadow.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_1_blue.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_1_blue.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_1_yellow.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_1_yellow.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_3_gray.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_3_gray.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_activity_settings.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/activity_settings.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_content_about_tab2.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/content_about_tab2.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_boop.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/boop.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_activty_about.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/activty_about.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_shoot.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/shoot.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_1_red.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_1_red.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/xml_pref_settings.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/xml/pref_settings.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/xml_my_backup_rules.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/xml/my_backup_rules.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_5_blue.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_5_blue.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout-land_main.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout-land/main.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_gameover.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/gameover.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_dialog_vibration.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/dialog_vibration.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_look_2.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/look_2.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_content_about_tab2.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/content_about_tab2.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_crunch.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/crunch.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_2_red.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_2_red.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_3_green.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_3_green.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_look_3.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/look_3.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_dialog_buttons.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/dialog_buttons.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_4_blue.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_4_blue.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_explosion.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/explosion.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_3_yellow.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_3_yellow.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_5_gray.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_5_gray.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_dialog_buttons.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/dialog_buttons.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout-land_main.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout-land/main.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_shadow.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/shadow.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/raw_next.mp3.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/raw/next.mp3"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_content_about_tab1.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/content_about_tab1.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_4_gray.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_4_gray.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_4_yellow.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_4_yellow.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_3_red.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_3_red.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/xml_my_backup_rules.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/xml/my_backup_rules.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_2_red.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_2_red.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_5_yellow.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_5_yellow.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_1_green.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_1_green.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_look_1.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/look_1.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_4_green.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_4_green.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/layout_dialog_background.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/layout/dialog_background.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_3_gray.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_3_gray.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_gameover.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/gameover.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_2_yellow.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_2_yellow.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_1_gray.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_1_gray.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_activty_about.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/activty_about.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_shoot.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/shoot.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_3_red.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_3_red.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_1_yellow.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_1_yellow.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_content_about_tab1.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/content_about_tab1.xml"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/menu_menu.xml.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/menu/menu.xml"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/drawable_button_2_gray.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/drawable/button_2_gray.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/raw_beep.mp3.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/raw/beep.mp3"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "de.tobiasbielefeld.brickgames.app-merged_res-13:/drawable_button_4_green.png.flat",
-        "source": "de.tobiasbielefeld.brickgames.app-main-15:/drawable/button_4_green.png"
+        "merged": "com.rkrocks.bricksbeaker.app-merged_res-5:/layout_dialog_textures.xml.flat",
+        "source": "com.rkrocks.bricksbeaker.app-main-7:/layout/dialog_textures.xml"
     }
 ]

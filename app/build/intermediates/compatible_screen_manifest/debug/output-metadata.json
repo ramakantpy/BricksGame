@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "de.tobiasbielefeld.brickgames",
+  "applicationId": "com.rkrocks.bricksbeaker",
   "variantName": "debug",
   "elements": []
 }
